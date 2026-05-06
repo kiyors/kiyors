@@ -1,42 +1,50 @@
-<h2>👋 Hi, I’m Gaurav<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Javascript</h2>
+<h1 align="center">👋 Hi, I’m Gaurav</h1>
+<h3 align="center">Full-Stack Developer & System Tinkerer</h3>
 
-###
+<p align="center">
+  <b>🦉 Night owl by nature, developer by trade.</b> <br>
+  I thrive in the quiet hours, turning fresh ideas into functional, high-performance reality and constantly exploring the bleeding edge of the tech landscape.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💡 **Exploring & Building:** I am deeply passionate about taking new concepts from the drawing board to production. Whether it's architecting a new application or experimenting with the latest tooling, I love the process of discovery and continuous learning.
+- ❄️ **Nix & System Architecture:** I am a massive advocate for declarative, reproducible systems. You'll frequently find me deep in the weeds of **Nix/NixOS**, managing complex cross-platform configurations via Nix flakes, and automating my environments with Home Manager.
+- ⌨️ **The Editor:** My home base is the terminal. I use a heavily customized, modular Lua-based **Neovim** setup, deeply integrated with LSPs and Treesitter, to keep my workflow blazingly fast and entirely keyboard-driven.
+- 🔭 **Currently Engineering:**
+  - **Expent:** A smart, high-performance expense tracker built with Rust (Axum), Next.js, and OCR transaction processing.
+- ⚡ **Stack & Infrastructure:** I love building modern, serverless infrastructure utilizing **AWS** (Lambda, EventBridge) and high-performance package managers like **pnpm**, **uv**, and **Cargo**. I manage my monorepos efficiently using **Turborepo**.
+- 🛠️ **Virtualization & DevOps:** I utilize **Proxmox** for local virtualization, managing LXC containers, and optimizing storage and hardware passthrough for self-hosted services.
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiyors&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <!-- Languages & Frameworks -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,rust,python,lua,react,nextjs,tailwind&theme=dark" height="48" alt="Languages and Frameworks" />
+  </a>
+  <br><br>
+  <!-- DevOps, Infra & Workflow -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,nix,linux,bash,git,github,neovim,obsidian&theme=dark" height="48" alt="DevOps and Tools" />
+  </a>
+  <br><br>
+  <!-- Media & Design -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ps,ai,pr&theme=dark" height="48" alt="Adobe Suite" />
+  </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kiyors/kiyors/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/kiyors/kiyors/output/snake.svg" alt="Snake animation" />
+</div>
