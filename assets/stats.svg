@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gaurav &#12513;'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 6612, Total PRs: 350, Total Issues: 349, Contributed to (last year): 58</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 6623, Total PRs: 375, Total Issues: 376, Contributed to (last year): 58</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.2483764847576;
+        stroke-dashoffset: 90.42287223490064;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >350</text>
+      >375</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >349</text>
+      >376</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
